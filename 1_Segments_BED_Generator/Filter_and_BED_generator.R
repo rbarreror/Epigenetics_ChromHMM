@@ -1,6 +1,6 @@
 """
 Autor: Rafael Barrero Rodríguez
-Fecha: 2020-03-15
+Fecha: 2020-03-09
 Descripción: Con este script realizamos un doble filtrado de los segmentos, por intersección
 entre ambas réplicas, y por probabilidad posterior. Basándonos en análsis del script
 defining_threshold.R, decidimos filtrar usando 0.75 como umbral.
