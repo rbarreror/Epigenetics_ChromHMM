@@ -5,6 +5,8 @@ Descripción: Con este script realizamos un doble filtrado de los segmentos, por
 entre ambas réplicas, y por probabilidad posterior. Basándonos en análsis del script
 defining_threshold.R, decidimos filtrar usando 0.75 como umbral.
 """
+
+
 root_folder = paste0("/home/rafael/Master_UAM/Transcriptomica_RegulacionGenomica_Epigenomica/",
                      "3_Regulacion_Genomica_Epigenomica/Trabajo_Polycomb/")
 
